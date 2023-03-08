@@ -15,7 +15,8 @@
     "nodemon": "^2.0.20",
     "whois-json": "^2.0.4"
   },
-  "engines": {
-    "node": "v16.15.0"
+
+    "engines": {
+    "node": "v16.x"
   }
 }
