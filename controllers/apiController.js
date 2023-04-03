@@ -32,9 +32,13 @@ const getDomainInfo = async (req, res) => {
 
 const welcome = (req, res) => {
   res.status(200).json({
-    message:
-      "Welcome to the domain name API checker, hit the endpoint /api/v1/domain/ and type your domain name without https:// to get the domain info.",
-  });
+  "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "fbBannerAdUnitId":"IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
+  "wantToShowAdmob":false,
+  "wantToShowFbAds":true
+  
+});
 };
 module.exports = {
   getDomainInfo,
