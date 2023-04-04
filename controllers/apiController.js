@@ -36,8 +36,6 @@ const welcome = (req, res) => {
   "bannerAdUnitIos":"ca-app-pub-3940256099942544/6300978111",
   "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
   "interstitialAdUnitIdIos":"ca-app-pub-3940256099942544/6300978111",
-    "nativeAdUnitId":"ca-app-pub-3940256099942544/2247696110",
-    "nativeAdUnitIdIos":"ca-app-pub-3940256099942544/2247696110",
   "fbBannerAdUnitId":"IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
   "fbBannerAdUnitIdIos":"IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
   "wantToShowAdmob":true,
